@@ -19,9 +19,14 @@ namespace Test.Functions.Orchestrator
 
             var coffee = await context.CallActivityAsync<bool>(nameof(HaveCoffeeFunction.HaveCoffee));
 
+            var buildInput = new BuildShellInput { Tools = toolsTask.Result, Parts = partsTask.Result };
+            var robot = await context.CallActivityAsync<RobotResponse>(nameof(BuildShellFunction.BuildShell), buildInput);
+            robot = await context.CallActivityAsync<RobotResponse>(nameof(ProgramRobotFunction.ProgramRobot), robot);
+            robot = await context.CallActivityAsync<RobotResponse>(nameof(TestRobotFunction.TestRobot), robot);
 
+            _logger.LogInformation($"Completed robot. Programmed: {robot.IsProgrammed}, tested: {robot.IsTested}, solid: {robot.IsSolid}, epic: {robot.IsEpic} ");
 
-            _logger.LogInformation("Completed");
+            _logger.LogInformation($"[Completed]: {nameof(RunOrchestrator)}");
         }
     }
 }

@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\actitivity\\buildshellfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\actitivity\\buildshellfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\start\\functionchainingstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\start\\functionchainingstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\actitivity\\havecoffeefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\actitivity\\havecoffeefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\dto\\buildshellinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\dto\\buildshellinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\orchestrator\\functionchainingorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\orchestrator\\functionchainingorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\actitivity\\testrobotfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\actitivity\\testrobotfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\actitivity\\programrobotfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\actitivity\\programrobotfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\actitivity\\fetchpartsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\actitivity\\fetchpartsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\functions\\actitivity\\fetchtoolsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\functions\\actitivity\\fetchtoolsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\utility\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\utility\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\dto\\partsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\dto\\partsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\dto\\toolsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\dto\\toolsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\utility\\robotconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\utility\\robotconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|d:\\kanhaiya\\leaning\\durable-functions\\test\\test\\dto\\robotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498350E4-A8CE-4467-91A4-1536E8A27128}|Test\\Test.csproj|solutionrelative:test\\dto\\robotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,133 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FunctionChainingOrchestrator.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
-              "RelativeDocumentMoniker": "Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
-              "RelativeToolTip": "Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Title": "TestRobotFunction.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\TestRobotFunction.cs",
+              "RelativeDocumentMoniker": "Test\\Functions\\Actitivity\\TestRobotFunction.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\TestRobotFunction.cs",
+              "RelativeToolTip": "Test\\Functions\\Actitivity\\TestRobotFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:59:56.511Z",
+              "WhenOpened": "2024-09-17T15:28:53.54Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FunctionChainingStart.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Start\\FunctionChainingStart.cs",
-              "RelativeDocumentMoniker": "Test\\Functions\\Start\\FunctionChainingStart.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Start\\FunctionChainingStart.cs",
-              "RelativeToolTip": "Test\\Functions\\Start\\FunctionChainingStart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:58:38.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Utility\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "Test\\Utility\\GlobalUsing.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Utility\\GlobalUsing.cs",
-              "RelativeToolTip": "Test\\Utility\\GlobalUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:12:27.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PartsResponse.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\PartsResponse.cs",
-              "RelativeDocumentMoniker": "Test\\Dto\\PartsResponse.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\PartsResponse.cs",
-              "RelativeToolTip": "Test\\Dto\\PartsResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:08:42.986Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ProgramRobotFunction.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\ProgramRobotFunction.cs",
+              "RelativeDocumentMoniker": "Test\\Functions\\Actitivity\\ProgramRobotFunction.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\ProgramRobotFunction.cs",
+              "RelativeToolTip": "Test\\Functions\\Actitivity\\ProgramRobotFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:22:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FetchPartsFunction.cs",
               "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\FetchPartsFunction.cs",
               "RelativeDocumentMoniker": "Test\\Functions\\Actitivity\\FetchPartsFunction.cs",
               "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\FetchPartsFunction.cs",
               "RelativeToolTip": "Test\\Functions\\Actitivity\\FetchPartsFunction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:04:50.37Z",
+              "WhenOpened": "2024-09-17T15:19:01.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Program.cs",
-              "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "BuildShellFunction.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\BuildShellFunction.cs",
+              "RelativeDocumentMoniker": "Test\\Functions\\Actitivity\\BuildShellFunction.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\BuildShellFunction.cs",
+              "RelativeToolTip": "Test\\Functions\\Actitivity\\BuildShellFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:41:03.545Z",
+              "WhenOpened": "2024-09-17T15:16:35.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ToolsResponse.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\ToolsResponse.cs",
-              "RelativeDocumentMoniker": "Test\\Dto\\ToolsResponse.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\ToolsResponse.cs",
-              "RelativeToolTip": "Test\\Dto\\ToolsResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RobotResponse.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\RobotResponse.cs",
+              "RelativeDocumentMoniker": "Test\\Dto\\RobotResponse.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\RobotResponse.cs",
+              "RelativeToolTip": "Test\\Dto\\RobotResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:14:18.389Z"
+              "WhenOpened": "2024-09-17T15:14:16.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FetchToolsFunction.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\FetchToolsFunction.cs",
-              "RelativeDocumentMoniker": "Test\\Functions\\Actitivity\\FetchToolsFunction.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\FetchToolsFunction.cs",
-              "RelativeToolTip": "Test\\Functions\\Actitivity\\FetchToolsFunction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BuildShellInput.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\BuildShellInput.cs",
+              "RelativeDocumentMoniker": "Test\\Dto\\BuildShellInput.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Dto\\BuildShellInput.cs",
+              "RelativeToolTip": "Test\\Dto\\BuildShellInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:02:16.205Z",
+              "WhenOpened": "2024-09-17T15:11:01.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HaveCoffeeFunction.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\HaveCoffeeFunction.cs",
-              "RelativeDocumentMoniker": "Test\\Functions\\Actitivity\\HaveCoffeeFunction.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Actitivity\\HaveCoffeeFunction.cs",
-              "RelativeToolTip": "Test\\Functions\\Actitivity\\HaveCoffeeFunction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAA/AAAAAAAAAA==",
+              "Title": "FunctionChainingOrchestrator.cs",
+              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
+              "RelativeDocumentMoniker": "Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
+              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
+              "RelativeToolTip": "Test\\Functions\\Orchestrator\\FunctionChainingOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:32:23.98Z",
+              "WhenOpened": "2024-09-17T15:09:33.578Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RobotConstants.cs",
-              "DocumentMoniker": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Utility\\RobotConstants.cs",
-              "RelativeDocumentMoniker": "Test\\Utility\\RobotConstants.cs",
-              "ToolTip": "D:\\Kanhaiya\\Leaning\\Durable-functions\\Test\\Test\\Utility\\RobotConstants.cs",
-              "RelativeToolTip": "Test\\Utility\\RobotConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:16:47.281Z"
             }
           ]
         }
