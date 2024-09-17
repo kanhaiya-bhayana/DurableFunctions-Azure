@@ -1,4 +1,4 @@
-﻿namespace Test.Functions
+﻿namespace Test.Functions.Actitivity
 {
     public class FetchToolsFunction
     {

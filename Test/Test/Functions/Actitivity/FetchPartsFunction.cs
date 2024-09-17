@@ -1,4 +1,4 @@
-﻿namespace Test.Functions
+﻿namespace Test.Functions.Actitivity
 {
     public class FetchPartsFunction(ILogger<FetchPartsFunction> logger)
     {
@@ -16,7 +16,7 @@
                     "Duct tape"
                 }
             };
-            logger.LogInformation($"Found parts {string.Join(", ",parts.MyParts)}");
+            logger.LogInformation($"Found parts {string.Join(", ", parts.MyParts)}");
             logger.LogInformation($"[Completed]: {nameof(FetchParts)}");
             return parts;
         }

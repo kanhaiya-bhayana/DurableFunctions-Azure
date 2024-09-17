@@ -1,4 +1,4 @@
-﻿namespace Test.Functions
+﻿namespace Test.Functions.Actitivity
 {
     public class HaveCoffeeFunction
         (ILogger<HaveCoffeeFunction> logger)
@@ -13,8 +13,10 @@
             await Task.Delay(RobotConstants.WorkflowStepDelay);
             logger.LogInformation("Here you go");
 
-            //await Task.Delay(RobotConstants.WorkflowStepDelay);
+            await Task.Delay(RobotConstants.WorkflowStepDelay);
             logger.LogInformation("Ah... much better");
+
+            logger.LogInformation($"Completed: {nameof(HaveCoffee)}");
         }
 
     }
